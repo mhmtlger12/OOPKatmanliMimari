@@ -1,0 +1,12 @@
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\bin\Debug\BusinessLogıcLayer.dll
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\bin\Debug\BusinessLogıcLayer.pdb
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\bin\Debug\EntityLayer.dll
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\obj\Debug\BusinessLogıcLayer.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\obj\Debug\BusinessLogıcLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\obj\Debug\BusinessLogıcLayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\obj\Debug\BusinessLogıcLayer.dll
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\BusinessLogıcLayer\obj\Debug\BusinessLogıcLayer.pdb

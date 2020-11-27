@@ -1,0 +1,10 @@
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\obj\Debug\FacadeLayer.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\obj\Debug\FacadeLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\Mehmet\Desktop\YazılımDiller\C#\Projeler\KatmanlıMimariProjesi\Ogrencı_Not_Sıstemı\FacadeLayer\obj\Debug\FacadeLayer.pdb
